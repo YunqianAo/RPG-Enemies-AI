@@ -23,7 +23,7 @@ When the enemy finds the player, what path does it take to capture it? This is a
 
 ## Action RPG
 
-![https://github.com/YunqianAo/RPG-Enemies-AI/blob/main/picture/presentacion%20%E6%8B%B7%E8%B4%9D.jpg?raw=true](src)
+![]()
 
 
 
