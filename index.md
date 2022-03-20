@@ -74,7 +74,7 @@ In the above example, the skill does not take the time of the normal attack and 
 
 
 
-## Turn-based role-playing
+## Turn-based RPG
 
 The method of encountering enemies in the game is "stepping on mines", and players will randomly fight while walking on the map. Therefore, the design of the "path" can be omitted. If the enemy is designed to be visible and patrolled on the map, it can still be designed in a "path" way. When the enemy captures the player, they will fight after collision.
 
@@ -125,7 +125,7 @@ Calculate the damage properly, and introduce the design of state transition, whi
 You can incorporate more elements to enrich this model. For example, skills are not instant, they will take up a normal attack opportunity, and they will no longer perform normal attacks when using healing or strengthening skills; being attacked when recovering or strengthening skills will be extended. cooldown, etc. However, no matter how you change it, the above is its base model.
 
 
-## Tectical role-playing
+## Tectical RPG
 
 
 As shown above:
