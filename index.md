@@ -126,7 +126,7 @@ You can incorporate more elements to enrich this model. For example, skills are 
 
 
 ## Tectical RPG
-
+![](https://github.com/YunqianAo/RPG-Enemies-AI/blob/main/picture/presentacion%20%E6%8B%B7%E8%B4%9D3.jpg)
 
 As shown above:
 
