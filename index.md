@@ -165,7 +165,7 @@ The three elements of "reaction logic, limited reaction, and path" are the three
 The above is an example of action (real-time) role-playing; turn-based role-playing games; and tectical role-playing, from which you can inspire and extend, and enrich and mutate models. However, no matter how you make a concrete change design, it is inseparable from three elements.
 
 ### About me
-This page has been written by Yunqian Ao as part of a research project for the subjet Project II in Videogame Design and Development at CITM.
+This page has been written by Yunqian Ao as part of a research project for the subject Project II in Videogame Design and Development at CITM.
 
 ### Markdown
 
