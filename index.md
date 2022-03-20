@@ -76,6 +76,7 @@ In the above example, the skill does not take the time of the normal attack and 
 
 ## Turn-based RPG
 ![Image](https://github.com/YunqianAo/RPG-Enemies-AI/blob/main/picture/presentacion%20%E6%8B%B7%E8%B4%9D2.jpg)
+
 The method of encountering enemies in the game is "stepping on mines", and players will randomly fight while walking on the map. Therefore, the design of the "path" can be omitted. If the enemy is designed to be visible and patrolled on the map, it can still be designed in a "path" way. When the enemy captures the player, they will fight after collision.
 
 
